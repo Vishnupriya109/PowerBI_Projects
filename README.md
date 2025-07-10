@@ -1,6 +1,5 @@
-# PowerBI_HR Analytics Dashboard
-The projects will be prepared using Power BI and made other tools accordingly
-# HR Analytics Dashboard – Power BI
+# PowerBI
+# HR Analytics Dashboard 
 
 This project features an interactive dashboard built in Power BI, focusing on HR insights from a sample dataset. It provides decision-makers with a comprehensive view of workforce trends and recruitment dynamics.
 
